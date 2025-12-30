@@ -1,6 +1,6 @@
 Name:		python-google-auth-oauthlib
 Version:	1.2.1
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/g/google-auth-oauthlib/google_auth_oauthlib-%{version}.tar.gz
 Summary:	Google Authentication Library
 URL:		https://pypi.org/project/google-auth-oauthlib/
